@@ -6,6 +6,11 @@ A production-style conversational AI chatbot built with **LangChain**, **Amazon 
 
 ##  Architecture
 
+<p align="center">
+  <img src="Architecture.png" width="800">
+</p>
+
+
 ```
 Frontend (Streamlit)
     └── User types message → chatbot_frontend.py
